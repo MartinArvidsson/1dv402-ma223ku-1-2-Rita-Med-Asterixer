@@ -10,6 +10,6 @@ Console.Write("* ");
 Console.WriteLine();
 ```
 
-för att skapa ett mönster med 39 kolumner och 25 rader enligt figuren"
+för att skapa ett mönster med 39 kolumner och 25 rader enligt figuren..."
 
 ![ScreenShot](README.png)
